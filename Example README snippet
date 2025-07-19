@@ -1,0 +1,9 @@
+# Neural Style Transfer
+
+This project applies artistic styles to photographs using deep learning.  
+It uses PyTorch to reconstruct a content image with the visual flair of a style image.
+
+## Usage
+1. Install dependencies with `pip install -r requirements.txt`
+2. Run `python style_transfer.py`
+3. Check output in `data/output.jpg`
